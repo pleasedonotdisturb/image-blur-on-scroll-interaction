@@ -1,4 +1,6 @@
 # Image Blur on Scroll
+![](https://github.com/scepterdoescode/image-blur-on-scroll-interaction/image-blur-preview.gif)
+
 A simple interaction where the image header becomes blurry on scroll.
 
 [Live Preview](https://codepen.io/pleasedonotdisturb/pen/zYpwWwm)
