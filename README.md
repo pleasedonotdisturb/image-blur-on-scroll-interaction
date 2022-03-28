@@ -1,2 +1,2 @@
-# image-blur-on-scroll-interaction
+# Image Blur on Scroll
 A simple interaction where the image header becomes blurry on scroll. Inspired by Online Tutorials.
