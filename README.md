@@ -1,5 +1,5 @@
 # Image Blur on Scroll
-![](https://github.com/scepterdoescode/image-blur-on-scroll-interaction/image-blur-preview.gif)
+![](https://github.com/scepterdoescode/image-blur-on-scroll-interaction/blob/6935d704a2a61011b127d948ce9412bc742912c7/image-blur-preview.gif)
 
 A simple interaction where the image header becomes blurry on scroll.
 
